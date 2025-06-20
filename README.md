@@ -2,6 +2,8 @@
 **Narth** is a Windows Forms application developed in C# designed to assist users in optimizing and maintaining their local network and system performance. It provides a set of lightweight tools for 
 diagnostics, cleanup, and basic security enhancements — all in one user-friendly interface.
 
+You can download the latest version from the [Releases page](https://github.com/ylcnkerim/Narth-Network-Operation/releases).
+
 ##  Features
 
 - **Network Diagnostics**
